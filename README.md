@@ -1,5 +1,5 @@
-# epd2in13
-This is a port of the epd2in13bc [Python driver from Waveshare](https://github.com/waveshare/e-Paper/tree/master/RaspberryPi_JetsonNano/python/lib/waveshare_epd).  
+# epd2in13_V4
+This is a port of the epd2in13_V4 [Python driver from Waveshare](https://github.com/waveshare/e-Paper/tree/master/RaspberryPi_JetsonNano/python/lib/waveshare_epd).  
 Key features of this library:
 * Fast, uses native GPIO and SPI libraries
 * Remappable Pins
