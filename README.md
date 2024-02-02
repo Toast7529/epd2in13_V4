@@ -6,7 +6,7 @@ Key features of this library:
 * Promises based
 * Can render from a Canvas or an Image
 
-Since this device is only capble of single tone (black or white, or red), it uses a frame buffer of 1 bit per pixel.  
+Since this device is only capble of single tone (black or white), it uses a frame buffer of 1 bit per pixel.  
 Although this device natively uses a portrait layout per the diagram below, it is mapped to a landscape layout instead for practical rendering of images or canvas.  
 Hence, Width > Height for `prepareImageFile` or `prepareCanvas` function calls.  
 <a name="layout"></a>
