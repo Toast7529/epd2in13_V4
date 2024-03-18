@@ -1,21 +1,21 @@
 {
-  "name": "epd2in13",
-  "version": "1.0.5",
-  "description": "Nodejs driver for the Waveshare 2.13inch (B) e-Paper Hat",
+  "name": "epd2in13_V4",
+  "version": "1.0.0",
+  "description": "Nodejs driver for the Waveshare 2.13inch V4 e-Paper Hat",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaweee/epd2in13"
+    "url": "https://github.com/Toast7529/epd2in13_V4"
   },
   "keywords": [
     "epaper",
     "epd",
     "waveshare"
   ],
-  "author": "Gary Teo",
+  "author": "ToastDev.cc",
   "license": "ISC",
   "dependencies": {
     "image-js": "^0.33.1",
