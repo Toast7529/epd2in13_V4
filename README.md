@@ -1,4 +1,5 @@
 # epd2in13_V4
+## This is a forked repository from [gaweee](https://github.com/gaweee/epd2in13), which adapts for the V4 of the epd2in13 e-paper display.
 This is a port of the epd2in13_V4 [Python driver from Waveshare](https://github.com/waveshare/e-Paper/tree/master/RaspberryPi_JetsonNano/python/lib/waveshare_epd).  
 Key features of this library:
 * Fast, uses native GPIO and SPI libraries
