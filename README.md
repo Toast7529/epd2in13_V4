@@ -18,11 +18,6 @@ Hence, Width > Height for `prepareImageFile` or `prepareCanvas` function calls.
 2. [SPI-Devicve](https://github.com/fivdi/spi-device)
 3. [ImageJS](https://github.com/image-js/image-js) for buffer rendering
 
-## Getting Started
-  ```sh
-  npm install epd2in13
-  ```
-
 ## Example Code
 ```js
     const epd2in13 = require('epd2in13');
